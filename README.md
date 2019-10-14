@@ -1,4 +1,5 @@
-# The original content is seen below. If you haven't already, please checkout Jesse's youtube / Udemy stuff. 
+A great package put together by Jesse Kurrus. He has some awesome Youtube content as well Udemy courses. If you haven't already, please checkout Jesse's youtube / Udemy stuff. 
+The original content from his Github can be found below. 
 #                                                         
 # These Python scripts are for educational purposes only! 
 #                                                         

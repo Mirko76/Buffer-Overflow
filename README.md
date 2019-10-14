@@ -1,4 +1,4 @@
-#
+# The original content is seen below. If you haven't already, please checkout Jesse's youtube / Udemy stuff. 
 #                                                         
 # These Python scripts are for educational purposes only! 
 #                                                         
